@@ -77,7 +77,10 @@ void loop()
 
 ```
 ## CIRCUIT DIAGRAM:
+![a1](https://github.com/Yuvakrishna0/Sensor-Interfacing-/assets/117915037/5fe9f0d9-b757-4944-babc-85cbaaeff677)
 
 ## OUTPUT:
+![a2](https://github.com/Yuvakrishna0/Sensor-Interfacing-/assets/117915037/e4d77691-dc7f-4701-a6a7-3fb3908db595)
+
 ## RESULT:
 Thus the distance of the obstacle is measured using ultrasonic sensor and display the value in serial monitor using Arduino UNO controller.
